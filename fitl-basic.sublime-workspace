@@ -1,0 +1,880 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"form",
+				"form-row"
+			],
+			[
+				"wedding_date",
+				"wedding_datetime"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"is_wedding",
+				"is_wedding_location"
+			],
+			[
+				"tabl",
+				"tableUri"
+			],
+			[
+				"we",
+				"weeks_ahead"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"col",
+				"col-lg-12"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"user",
+				"user_role"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"Check",
+				"ChecklistItemsMeta"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"wi",
+				"widget-body"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"s",
+				"submit"
+			],
+			[
+				"wid",
+				"widget-body"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"nav",
+				"nav-link"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "object.html",
+			"settings":
+			{
+				"buffer_size": 329,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 94,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "object-2.html",
+			"settings":
+			{
+				"buffer_size": 329,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/ashley/Dropbox/Sites/virtualassistant/resources/views/partials/nav-mod.blade.php",
+		"/Users/ashley/Dropbox/Sites/virtualassistant/resources/views/partials/landing.mod.blade.php",
+		"/Users/ashley/Dropbox/Sites/virtualassistant/routes/web.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/resources/views/partials/landing.blade.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/resources/views/partials/contact.mod.blade.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/resources/views/partials/dark.mod.blade.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/resources/views/partials/services.mod.blade.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/resources/views/partials/portfolio.mod.blade.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/resources/views/partials/services.blade.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/resources/views/partials/about.mod.blade.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/resources/views/partials/nav.mod.blade.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/resources/views/partials/banner.mod.blade.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/app/Http/Controllers/ProfileController.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/resources/views/playground.blade.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/app/UserVenue.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/app/Venue.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/composer.json",
+		"/Users/brian/Dropbox/Sites/virtualassistant/public/js/admin.js",
+		"/Users/brian/Dropbox/Sites/virtualassistant/database/migrations/2018_05_11_171610_create_venues_table.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/app/Http/Controllers/VenueController.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/resources/views/member-area/timeline.blade.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/resources/views/member-area/index.blade.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/resources/views/member-area/sidebar.blade.php",
+		"/Users/brian/Dropbox/Sites/virtualassistant/.env",
+		"/Users/brian/Dropbox/Sites/virtualassistant/app/User.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/routes/web.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/views/member-area/sidebar.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/views/layouts/portal-master-sidebar.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/views/member-area/nav.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/views/member-area/profile.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/views/member-area/index.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/Http/Controllers/ProfileController.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/Http/Controllers/TimelineController.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/Venue.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/UserVenue.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/Http/Controllers/VenueController.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/config/app.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/.env",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/views/layouts/portal-master.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/Http/Controllers/HomeController.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/Http/Controllers/ChecklistController.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/database/migrations/2018_05_21_150303_create_user_venues_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/config/mail.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/database/migrations/2018_04_24_010806_create_bouncer_tables.php",
+		"/Users/ryanmcvay/Desktop/higbee_mcvay_build_from_prodServer_4-20-18.sql",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/database/seeds/UsersTableSeeder.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/composer.json",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/User.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/Http/Controllers/Auth/RegisterController.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/TimelineNote.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/public/js/admin.js",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/views/member-area/timeline.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/TimelineItems.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/TimelineMeta.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/.env",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/config/google-calendar.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/routes/web.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/higbeeband.sublime-project",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/google-calendar/service-account-credentials.json",
+		"/Users/ryanmcvay/Downloads/Chris Higbee Calendar-05d125cfe54e.json",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/config/app.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/config/services.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/Http/Controllers/HomeController.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/portal-area/home.blade.php",
+		"/Users/ryanmcvay/Desktop/Higbee Calendar Demo.ics",
+		"/Users/ryanmcvay/Desktop/Birthdays.ics",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/public/calendar.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/Providers/AppServiceProvider.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/composer.json",
+		"/Users/ryanmcvay/Desktop/RAJA Family Calendar_ryanmcvay.com_tmaav6oq1k5bogn36h4ogv73b4@group.calendar.google.com.ics",
+		"/Users/ryanmcvay/Desktop/ryan@ryanmcvay.com.ics",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/portal-area/users.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/portal-area/master.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/portal-area/profile.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/portal-area/edituser.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/database/migrations/2018_04_18_172050_create_events_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/User.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/auth/register.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/Http/Controllers/Auth/RegisterController.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/Helper.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/auth/login.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/public/welcome.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/database/migrations/2018_04_19_014146_create_site_options_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/SiteOption.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/profile.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/layouts/app.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/users.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/portal-area/index.html",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/PortalRole.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/FrontEndRole.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/database/migrations/2018_04_19_000445_create_front_end_roles_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/database/migrations/2018_04_19_000410_create_portal_roles_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/home.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/database/migrations/2018_04_18_173321_create_states_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/Providers/AuthServiceProvider.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/resources/views/welcome.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/MixMarker.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/Event.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/EventMeta.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/Mix.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/SongTitle.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/State.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/app/Venue.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/database/migrations/2018_04_18_175433_create_mix_markers_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/database/migrations/2018_04_18_175512_create_song_titles_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/database/migrations/2018_04_18_173007_create_events_meta_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/database/migrations/2018_04_18_174534_create_venues_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/higbeeband/database/migrations/2018_04_18_175224_create_mixes_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/views/partials/contact.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/views/partials/services.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/assets/sass/_navbar.scss",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/assets/sass/_masthead.scss",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/assets/sass/_switches.scss",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/assets/sass/_global.scss",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/assets/sass/creative.scss",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/database/migrations/2018_04_18_133256_create_checklist_todos_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/ChecklistToDos.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/views/layouts/loginFormMaster.blade.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/Http/Controllers/TestController.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/resources/assets/sass/_variables.scss",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/database/migrations/2018_04_14_183833_create_checklist_items_meta_table.php",
+		"/Users/ryanmcvay/Dropbox/Site-Development/virtualassistant/app/ChecklistItemsMeta.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "object.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								329
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "object-2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 204.0
+	},
+	"pinned_build_system": "",
+	"project": "fitl-basic.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"web.",
+				"routes/web.php"
+			],
+			[
+				"prof",
+				"app/Http/Controllers/ProfileController.php"
+			],
+			[
+				"venue",
+				"database/migrations/2018_05_11_171610_create_venues_table.php"
+			],
+			[
+				"inde",
+				"resources/views/member-area/index.blade.php"
+			],
+			[
+				"ind",
+				"resources/views/member-area/index.blade.php"
+			],
+			[
+				"admin",
+				"public/js/admin.js"
+			],
+			[
+				"userven",
+				"app/UserVenue.php"
+			],
+			[
+				"venue con",
+				"app/Http/Controllers/VenueController.php"
+			],
+			[
+				".js",
+				"public/js/admin.js"
+			],
+			[
+				"timeline",
+				"resources/views/member-area/timeline.blade.php"
+			],
+			[
+				"venuecon",
+				"app/Http/Controllers/VenueController.php"
+			],
+			[
+				"we",
+				"routes/web.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"side",
+				"resources/views/member-area/sidebar.blade.php"
+			],
+			[
+				".",
+				".env"
+			],
+			[
+				"comp",
+				"composer.json"
+			],
+			[
+				"index",
+				"resources/views/member-area/index.blade.php"
+			],
+			[
+				"profile",
+				"resources/views/member-area/profile.blade.php"
+			],
+			[
+				"app",
+				"config/app.php"
+			],
+			[
+				"timelinec",
+				"app/Http/Controllers/TimelineController.php"
+			],
+			[
+				"master",
+				"resources/views/layouts/portal-master-sidebar.blade.php"
+			],
+			[
+				"profi",
+				"app/Http/Controllers/ProfileController.php"
+			],
+			[
+				"home",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"mail",
+				"config/mail.php"
+			],
+			[
+				"sideb",
+				"resources/views/member-area/sidebar.blade.php"
+			],
+			[
+				"app.p",
+				"config/app.php"
+			],
+			[
+				"app.",
+				"config/app.php"
+			],
+			[
+				"pro",
+				"resources/views/member-area/profile.blade.php"
+			],
+			[
+				"regis",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"us",
+				"app/User.php"
+			],
+			[
+				"checkli",
+				"app/Http/Controllers/ChecklistController.php"
+			],
+			[
+				"in",
+				"resources/views/member-area/index.blade.php"
+			],
+			[
+				"adm",
+				"public/js/admin.js"
+			],
+			[
+				"create_us",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"time",
+				"app/Http/Controllers/TimelineController.php"
+			],
+			[
+				"hom",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"google",
+				"config/google-calendar.php"
+			],
+			[
+				"servce",
+				"config/services.php"
+			],
+			[
+				"servicep",
+				"vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php"
+			],
+			[
+				"servi",
+				"config/services.php"
+			],
+			[
+				"create_e",
+				"database/migrations/2018_04_18_172050_create_events_table.php"
+			],
+			[
+				"mas",
+				"resources/views/portal-area/master.blade.php"
+			],
+			[
+				"register",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"authen",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php"
+			],
+			[
+				"login",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"appse",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"homec",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"users",
+				"resources/views/portal-area/users.blade.php"
+			],
+			[
+				"wel",
+				"resources/views/public/welcome.blade.php"
+			],
+			[
+				"helper",
+				"app/Helper.php"
+			],
+			[
+				"site_op",
+				"database/migrations/2018_04_19_014146_create_site_options_table.php"
+			],
+			[
+				"service",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"port",
+				"app/PortalRole.php"
+			],
+			[
+				"app.b",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"appser",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"homeco",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"cont",
+				"resources/views/partials/contact.blade.php"
+			],
+			[
+				"ser",
+				"resources/views/partials/services.blade.php"
+			],
+			[
+				"conta",
+				"resources/views/partials/contact.blade.php"
+			],
+			[
+				"services",
+				"resources/views/partials/services.blade.php"
+			],
+			[
+				"navba",
+				"resources/assets/sass/_navbar.scss"
+			],
+			[
+				"creativ",
+				"resources/assets/sass/creative.scss"
+			],
+			[
+				"mast",
+				"resources/assets/sass/_masthead.scss"
+			],
+			[
+				"glob",
+				"resources/assets/sass/_global.scss"
+			],
+			[
+				"checklist_to",
+				"database/migrations/2018_04_18_133256_create_checklist_todos_table.php"
+			],
+			[
+				"loginf",
+				"resources/views/layouts/loginFormMaster.blade.php"
+			],
+			[
+				"creative",
+				"resources/assets/sass/creative.scss"
+			],
+			[
+				"checklist",
+				"app/ChecklistItemsMeta.php"
+			],
+			[
+				"test",
+				"app/Http/Controllers/TestController.php"
+			],
+			[
+				"regi",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"timel",
+				"resources/views/member-area/timelinetest.blade.php"
+			],
+			[
+				"vari",
+				"resources/assets/sass/_variables.scss"
+			],
+			[
+				"login-fo",
+				"public/js/login-form.js"
+			],
+			[
+				"loginfo",
+				"resources/views/layouts/loginFormMaster.blade.php"
+			],
+			[
+				"_reg",
+				"resources/views/auth/_register.blade.php"
+			],
+			[
+				"login-form",
+				"public/js/login-form.js"
+			],
+			[
+				"login-",
+				"resources/assets/sass/login-form.scss"
+			],
+			[
+				"checkl",
+				"database/migrations/2018_04_14_161043_checklist_items.php"
+			],
+			[
+				"checklis",
+				"database/migrations/2018_04_14_161043_checklist_items.php"
+			],
+			[
+				"create",
+				"vendor/laravel/framework/src/Illuminate/Database/Migrations/stubs/create.stub"
+			],
+			[
+				"val",
+				"vendor/vlucas/phpdotenv/src/Validator.php"
+			],
+			[
+				"globa",
+				"resources/assets/sass/_global.scss"
+			],
+			[
+				"mixin",
+				"resources/assets/sass/_mixins.scss"
+			],
+			[
+				"var",
+				"vendor/font-awesome/less/variables.less"
+			],
+			[
+				"masth",
+				"resources/assets/sass/_masthead.scss"
+			],
+			[
+				"header",
+				"resources/views/partials/header.blade.php"
+			],
+			[
+				"nav",
+				"resources/views/partials/nav.blade.php"
+			],
+			[
+				"rou",
+				"vendor/symfony/routing/Route.php"
+			],
+			[
+				"logout",
+				"vendor/laravel/framework/src/Illuminate/Auth/Events/Logout.php"
+			],
+			[
+				"top",
+				"resources/views/sections/top.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Site-Development/higbeeband/higbeeband.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
